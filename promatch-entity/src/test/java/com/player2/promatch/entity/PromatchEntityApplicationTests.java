@@ -1,4 +1,4 @@
-package com.promatch.entity;
+package com.player2.promatch.entity;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
